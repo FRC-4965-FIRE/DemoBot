@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.classpath
+build.properties
+build.xml
+*.class
+.project
+build/jars/NetworkTables.jar
+dist/FRCUserProgram.jar
+sysProps.xml
+/bin/
